@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatveyMatveyil)](https://github.com/anuraghazra/github-readme-stats&theme=onedark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatveyMatveyil)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
 
 
 <!--
